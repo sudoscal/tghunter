@@ -27,7 +27,7 @@ async def error(update: Update, context: CallbackContext):
 # Основная функция
 def main():
     # Вставьте сюда ваш токен
-    token = '1393463446:AAHEAs0RTseqmbNAQ_05q3n8kCrPBcQJ1HU'
+    token = '******************'
 
     # Создаем Application и передаем ему токен вашего бота
     application = Application.builder().token(token).build()
